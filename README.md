@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahan Samuditha</h1>
 <h3 align="center">I am an undergraduate student in the IT industry.</h3>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahansamuditha&label=Profile%20views&color=0e75b6&style=flat" alt="sahansamuditha" /> </p>
 
