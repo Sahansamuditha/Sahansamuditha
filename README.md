@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahansamuditha&label=Profile%20views&color=0e75b6&style=flat" alt="sahansamuditha" /> </p>
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 - 🌱 I’m currently learning **Fultter**
 
 - 📫 How to reach me **sahansamuditha0714@gmail.com**
