@@ -4,8 +4,8 @@
 <h3 align="center">I am an undergraduate student in the IT industry.</h3>
 
 <p align="center">
-  <a href="https://github.com/Sahansamuditha"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/Sahansamuditha"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+  <a href="https://github.com/Sahansamuditha"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sahansamuditha?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/Sahansamuditha"><img alt="views" title="Github views" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"/></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahansamuditha&label=Profile%20views&color=0e75b6&style=flat" alt="sahansamuditha" /> </p>
 
