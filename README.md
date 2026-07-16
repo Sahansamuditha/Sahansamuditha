@@ -1,11 +1,25 @@
-<picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" alt="Right Side GIF">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Sahan Samuditha</h1>
 <h3 align="center">I am an undergraduate student in the IT industry.</h3>
 
 <p align="center">
-  <a href="https://github.com/Sahansamuditha"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sahansamuditha?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/Sahansamuditha"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=sahansamuditha&label=Profile%20views&color=0e75b6&style=flat"/></a>
+  <a href="https://github.com/Sahansamuditha">
+    <img
+      src="https://komarev.com/ghpvc/?username=Sahansamuditha&label=Profile%20Views&color=0e75b6&style=for-the-badge&v=1"
+      alt="Profile Views"
+    />
+  </a>
+
+  <a href="https://github.com/Sahansamuditha?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/Sahansamuditha?label=Followers&style=for-the-badge&logo=github&color=236ad3"
+      alt="GitHub Followers"
+    />
+  </a>
 </p>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
@@ -21,40 +35,56 @@
 
 <h3 align="center">Languages</h3>
 
-![Java](https://img.shields.io/badge/java-0D639E.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-5636E3.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-ED2626.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Php](https://img.shields.io/badge/php-%FFE496.svg?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%23323330.svg?style=for-the-badge&logo=dart&logoColor=%23F7DF1E)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-0D639E?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-5636E3?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-ED2626?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
 
 <h3 align="center">Frontend</h3>
 
-![Html](https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E)
-![Css](https://img.shields.io/badge/css-%2314354C.svg?style=for-the-badge&logo=css&logoColor=white)
-![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
-![Flutter](https://img.shields.io/badge/flutter-%2314354C.svg?style=for-the-badge&logo=flutter&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
 
 <h3 align="center">Backend</h3>
 
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
 
 <h3 align="center">Database</h3>
 
-![MySql](https://img.shields.io/badge/mysql-%2343853D.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 <h3 align="center">Version Control & CI/CD</h3>
 
-![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23F7DF1E)
-![GitHub](https://img.shields.io/badge/github-%2314354C.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
+<h3 align="center">Preferred IDEs & Tools</h3>
 
-![AndroidStudio](https://img.shields.io/badge/android_studio-%23323330.svg?style=for-the-badge&logo=androidstudio&logoColor=%23F7DF1E)
-![VisualStudio](https://img.shields.io/badge/visual_studio-%23323330.svg?style=for-the-badge&logo=visualstudio&logoColor=%23F7DF1E)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+</p>
 ----
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="www.linkedin.com/in/sahan-samuditha-4a3311360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/share/17hfXw7ydh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/sahan235563?igsh=NWgyc2loZXA3aW8w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
+</p>
 
 <div style="margin-top:10px" align="center">
   <div>
