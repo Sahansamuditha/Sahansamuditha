@@ -1,4 +1,4 @@
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <h1 align="center">Hi 👋, I'm Sahan Samuditha</h1>
 <h3 align="center">I am an undergraduate student in the IT industry.</h3>
