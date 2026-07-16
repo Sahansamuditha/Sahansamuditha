@@ -84,19 +84,9 @@
   <a href="www.linkedin.com/in/sahan-samuditha-4a3311360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
   <a href="https://www.facebook.com/share/17hfXw7ydh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
   <a href="https://www.instagram.com/sahan235563?igsh=NWgyc2loZXA3aW8w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
+  <a href="https://wa.me/94771490016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="josue_rojasv" height="30" width="40" /></a>
 </p>
 
-<div style="margin-top:10px" align="center">
-  <div>
-    
-  </div>
-  <div>
-   
-  </div>
-  <div>
-   
-  </div>
-</div>
 
 
 <div align="center">
